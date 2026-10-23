@@ -1,0 +1,7 @@
+{
+  "name": "Sarmoya - Talabalar va Yosh Mutaxassislar Xarajat Nazorati",
+  "description": "Talabalar va 20+ yoshdagi mutaxassislar uchun zamonaviy xarajatlar tahlili, hisob to'ldirish va PDF hisobotlar platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
